@@ -2,7 +2,7 @@
 
 This is the best bot for managing your member's roles.
 
-![notion database](https://github.com/yuzaiakira/notion-to-discord-role-manager/blob/master/docs/Notion.png?raw=true)
+![notion database](https://raw.githubusercontent.com/yuzaiakira/notion-to-discord-role-manager/main/docs/Notion.png?raw=true)
 
 ## How To Installing And Use It?
 
