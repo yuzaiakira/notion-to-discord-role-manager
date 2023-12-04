@@ -1,0 +1,13 @@
+# Get Your Notion Integration Token From:
+# https://www.notion.so/my-integrations
+I_TOKEN = str
+
+# Notion Database ID for get user data
+DATABASE_ID = str
+
+# Get Your Discord Token From: 
+# https://discord.com/developers/applications
+DISCORD_TOKEN = str
+
+# Discord channel to send log and get command
+TEXT_CHANNEL_ID = int
