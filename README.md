@@ -12,9 +12,9 @@ This is the best bot for managing your member's roles.
 |:----------:|:---------:|:-----------------:|
 | type Title | type Text | type Multi-select |
 
-<^>Please make sure that the database is created exactly like the table, that is, the letters are like these, `user name`, `roles`, and `user id`, and also the type of columns is the same as the second row, such as `Title`, `Text` and `Multi-select`.<^>
-
-<^>And select your integration from Connections in the menu<^>
+> Please make sure that the database is created exactly like the table, that is, the letters are like these, `user name`, `roles`, and `user id`, and also the type of columns is the same as the second row, such as `Title`, `Text` and `Multi-select`.
+>
+>And select your integration from Connections in the menu
 
 - Then install the Python package
 ```bash
