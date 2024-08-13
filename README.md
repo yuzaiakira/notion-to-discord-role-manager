@@ -27,5 +27,30 @@ Akira@yuzai:~/notion-to-discord-role-manager$ pip install -r ./requirements.txt
 ```bash
 Akira@yuzai:~/notion-to-discord-role-manager$ python main.py
 ```
+To add details about integrating a Notion token with your database in your GitHub project README, you can follow this structure. Here’s a sample section you can include:
+
+---
+
+## How To Get Notion Integration
+
+To integrate your Notion database with this project, you will need to add your Notion integration token. Follow the steps below to obtain your token and configure it in your environment.
+
+### Step 1: Create a Notion Integration
+
+1. Go to [Notion Developers](https://www.notion.so/my-integrations).
+2. Click on "New Integration."
+3. Fill in the required details (name, associated workspace, etc.).
+4. Once created, you will receive an **Integration Token**. Copy this token as you will need it in the next steps.
+
+### Step 2: Share Your Database with the Integration
+
+1. Open the Notion page that contains the database you want to integrate.
+2. Click on the "Share" button in the top right corner.
+3. In the "Invite" section, search for your integration by name and select it.
+4. Make sure to give it the necessary permissions (e.g., read, write).
+
+- And you can add your integration token to the `config.py` file
+
+
 
 I hope you enjoy using this robot :)
